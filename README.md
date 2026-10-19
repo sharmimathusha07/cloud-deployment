@@ -180,8 +180,12 @@ Replace `YOUR-USERNAME` with your GitHub username. Check `git status` before com
 - [ ] Final image size is measured and is below 150 MB (if required).
 - [ ] Build logs and test evidence are available and contain no secrets.
 - [ ] Submit the public repository URL only, as requested by the portal.
+
+
 Live Deployment
 Application URL:https://cloud-deployment-1-urn4.onrender.com
+
+
 Technology stack
 
 ● Node.js
